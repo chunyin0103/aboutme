@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">about me</string>
+    <string name="my_name">Loh Chun Yin</string>
+    <string name="my_profile_pic">Profile Picture</string>
+    <string name="my_Profile_Desc">
+        Eduction:
+        \n SJK C Confusion
+        \n
+        \n SMK Seri Saujana
+        \n
+        \nTARC
+
+
+    </string>
+</resources>
